@@ -1,5 +1,5 @@
 IP: 62.84.121.218;
 name_taski: https://taskikyn.zapto.org;
 name_kittygram: https://kittygramhomework.zapto.org;
-login: lit;
-password: 123;
+login: Ann;
+password: lukomorie123;
